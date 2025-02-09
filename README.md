@@ -1,7 +1,5 @@
 # .github
 
-## CADISON README.md
-
 # CADISON: Open-Source CAD Solutions for Everyone
 
 Welcome to **CADISON**, a non-profit organization dedicated to developing cutting-edge, **free and open-source** CAD software. Our mission is to empower engineers, designers, and creators with powerful yet accessible tools for 3D modeling, parametric design, and engineering simulations.
